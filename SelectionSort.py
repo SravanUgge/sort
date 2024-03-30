@@ -10,5 +10,5 @@ def Sort(nums):
         print(nums)
 
 nums=[9,8,7,6,5,4,3]
-Sort(nums)
-print(nums)
+
+print(Sort(nums))
